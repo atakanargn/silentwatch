@@ -16,6 +16,8 @@ Proje, unofficial WhatsApp API'si olan [Baileys](https://github.com/adiwajshing/
 - npm veya yarn
 - Whatsapp hesabınız
 
+![Proje Ekran Görüntüsü](https://github.com/atakanargn/silentwatch/blob/main/screenshot.png)
+
 ### Kurulum
 1. Depoyu klonlayın:
     ```bash
